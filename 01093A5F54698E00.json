@@ -1,0 +1,66 @@
+{
+    "response_code": 200,
+    "objects": [
+        {
+            "object_id": 27018,
+            "instance_id": 0,
+            "time_stamp": 1674298831,
+            "ts_db": 1674298831.0,
+            "OpStatus": 1,
+            "node_timestamp": null,
+            "resources": [
+                {
+                    "resource_id": 5500,
+                    "type": "int",
+                    "name": "occupancy",
+                    "value": 1
+                },
+                {
+                    "resource_id": 5518,
+                    "type": "int",
+                    "name": "time_stamp",
+                    "value": 1674298826
+                }
+            ]
+        },
+        {
+            "object_id": 30512,
+            "instance_id": 0,
+            "time_stamp": 1629299660,
+            "ts_db": 1629299660.0,
+            "node_timestamp": null,
+            "resources": [
+                {
+                    "resource_id": 30600,
+                    "type": "string",
+                    "name": "inv_name",
+                    "value": "SMART_PARKING_5F:54-00"
+                }
+            ]
+        },
+        {
+            "object_id": 30515,
+            "instance_id": 0,
+            "time_stamp": 1665565133,
+            "ts_db": 1665565133.0,
+            "node_timestamp": null,
+            "resources": [
+                {
+                    "resource_id": 1,
+                    "type": "string",
+                    "name": "longitude",
+                    "value": "8.46773851042548"
+                },
+                {
+                    "resource_id": 0,
+                    "type": "string",
+                    "name": "latitude",
+                    "value": "45.4360130184765"
+                }
+            ]
+        }
+    ],
+    "total_pages": 1,
+    "api_response_code": 0,
+    "message": "Success"
+}
