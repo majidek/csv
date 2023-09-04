@@ -1,0 +1,164 @@
+{
+    "content": [
+        {
+            "accessEventId": 1992,
+            "accessGranted": true,
+            "accessReason": "OK",
+            "timestamp": "2023-08-28T05:19:35Z",
+            "terminal": {
+                "id": 19,
+                "name": "isiro1",
+                "side": "outside"
+            },
+            "person": {
+                "id": 15,
+                "number": null,
+                "firstName": "Test",
+                "lastName": "Person"
+            },
+            "token": {
+                "name": "uid7",
+                "typeUsed": "UUID7",
+                "fleximCode": 72833970,
+                "code": "04575BB2253980"
+            },
+            "area": {
+                "from": null,
+                "to": "area1"
+            }
+        },
+        {
+            "accessEventId": 1994,
+            "accessGranted": false,
+            "accessReason": "Token code not found in system",
+            "timestamp": "2023-08-28T05:19:43Z",
+            "terminal": {
+                "id": 19,
+                "name": "isiro1",
+                "side": "outside"
+            },
+            "person": {
+                "id": null,
+                "number": null,
+                "firstName": null,
+                "lastName": null
+            },
+            "token": {
+                "name": null,
+                "typeUsed": "UUID7",
+                "fleximCode": 74395818,
+                "code": "046F30AABC3380"
+            },
+            "area": {
+                "from": null,
+                "to": "area1"
+            }
+        },
+        {
+            "accessEventId": 1995,
+            "accessGranted": false,
+            "accessReason": "Token code not found in system",
+            "timestamp": "2023-08-28T05:19:46Z",
+            "terminal": {
+                "id": 19,
+                "name": "isiro1",
+                "side": "outside"
+            },
+            "person": {
+                "id": null,
+                "number": null,
+                "firstName": null,
+                "lastName": null
+            },
+            "token": {
+                "name": null,
+                "typeUsed": "UUID4",
+                "fleximCode": 79284666,
+                "code": "34B9C9BA"
+            },
+            "area": {
+                "from": null,
+                "to": "area1"
+            }
+        },
+        {
+            "accessEventId": 1996,
+            "accessGranted": false,
+            "accessReason": "Token code not found in system",
+            "timestamp": "2023-08-28T05:19:48Z",
+            "terminal": {
+                "id": 19,
+                "name": "isiro1",
+                "side": "outside"
+            },
+            "person": {
+                "id": null,
+                "number": null,
+                "firstName": null,
+                "lastName": null
+            },
+            "token": {
+                "name": null,
+                "typeUsed": "UUID4",
+                "fleximCode": 78760378,
+                "code": "24B1C9BA"
+            },
+            "area": {
+                "from": null,
+                "to": "area1"
+            }
+        },
+        {
+            "accessEventId": 1997,
+            "accessGranted": true,
+            "accessReason": "OK",
+            "timestamp": "2023-08-28T05:19:51Z",
+            "terminal": {
+                "id": 19,
+                "name": "isiro1",
+                "side": "outside"
+            },
+            "person": {
+                "id": 15,
+                "number": null,
+                "firstName": "Test",
+                "lastName": "Person"
+            },
+            "token": {
+                "name": "uid7",
+                "typeUsed": "UUID7",
+                "fleximCode": 72833970,
+                "code": "04575BB2253980"
+            },
+            "area": {
+                "from": null,
+                "to": "area1"
+            }
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "pageNumber": 0,
+        "pageSize": 100,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 5,
+    "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+    },
+    "first": true,
+    "number": 0,
+    "numberOfElements": 5,
+    "size": 100,
+    "empty": false
+}
